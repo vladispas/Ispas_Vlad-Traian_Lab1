@@ -7,8 +7,6 @@ namespace Ispas_Vlad_Traian_Lab1.Controllers
         public String Index()
         {
             return "Bun venit!";
-            return SayHello();
-            return PrintData("String Example", 8);
         }
 
         public String SayHello()
